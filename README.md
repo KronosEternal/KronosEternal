@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">someone who enjoys working on games and projects with the javascript language</h3>
 
+![kronoseternal's stats](https://github-readme-stats.vercel.app/api?username=kronoseternal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![kronoseternal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kronoseternal&theme=tokyonight&hide_border=true)
+
 - 🔭 I’m currently working on **On proxies and arras serves**
 
 - 🌱 I’m currently learning **Advanced JS, python, blender**
